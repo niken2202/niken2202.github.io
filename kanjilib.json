@@ -1,0 +1,991 @@
+[ {
+  "Example" : "会う（あう）：gặp\r\n会社（かいしゃ）：công ty\r\n社会（しゃかい）：xã hội\n",
+  "Kanji" : "会",
+  "Kun" : "あ-う\r\nあ-わせる",
+  "Mean" : "Hội",
+  "On" : "かい"
+}, {
+  "Example" : "同じ（おなじ）：giống nhau\r\n同意（どうい）：đồng ý\r\n同感（どうかん）：đồng cảm\n",
+  "Kanji" : "同",
+  "Kun" : "おな-じ",
+  "Mean" : "Đồng",
+  "On" : "どう"
+}, {
+  "Example" : "事故（じこ）：tai nạn\r\n家事（かじ）：việc nhà\r\n火事（かじ）：hỏa hoạn\n",
+  "Kanji" : "事",
+  "Kun" : "こと\r\nつか-う",
+  "Mean" : "Sự",
+  "On" : "じ"
+}, {
+  "Example" : "自分（じぶん）：bản thân\r\n自動（じどう）：tự động\r\n自転車（じてんしゃ）：xe đạp\r\n自由（じゆう）：tự do\n",
+  "Kanji" : "自",
+  "Kun" : "みずか-ら\r\nおの-ずから",
+  "Mean" : "Tự",
+  "On" : "し, じ"
+}, {
+  "Example" : "社会（しゃかい）：xã hội\r\n社長（しゃちょう）：giám đốc\r\n神社（じんじゃ）：đền\n",
+  "Kanji" : "社",
+  "Kun" : "",
+  "Mean" : "Xã",
+  "On" : "しゃ"
+}, {
+  "Example" : "発表（はっぴょう）：phát biểu\r\n出発（しゅっぱつ）：xuất phát\n",
+  "Kanji" : "発",
+  "Kun" : "",
+  "Mean" : "Phát",
+  "On" : "はつ"
+}, {
+  "Example" : "医者（いしゃ）：bác sỹ\r\n科学者（かがくしゃ）：nhà khoa học\r\n若者（わかもの）：giới trẻ\n",
+  "Kanji" : "者",
+  "Kun" : "もの",
+  "Mean" : "Giả",
+  "On" : "しゃ"
+}, {
+  "Example" : "地図（ちず）：bản đồ\r\n地下鉄（ちかてつ）：tàu điện ngầm\r\n地震（じしん）：động đất\n",
+  "Kanji" : "地",
+  "Kun" : "",
+  "Mean" : "Địa",
+  "On" : "ち / じ"
+}, {
+  "Example" : "工業(こうぎょう)：công nghiệp\r\n農業(のうぎょう)：nông nghiệp\r\n開業(かいぎょう)]：khởi nghiệp\n",
+  "Kanji" : "業",
+  "Kun" : "",
+  "Mean" : "Nghiệp",
+  "On" : "ぎょう"
+}, {
+  "Example" : "方（かた）：ngài, vị. ví dụ : その方はだれですか Vị đó là ai thế?\r\n考え方（かんがえかた）：cách nghĩ. Ví dụ : あなたの考え方がすきです。tôi thích cách nghĩ của bạn.\r\n方法（ほうほう）：phương pháp\n",
+  "Kanji" : "方",
+  "Kun" : "かた",
+  "Mean" : "Phương",
+  "On" : "ほう"
+}, {
+  "Example" : "新しい(あたらしい)：mới\n新聞(しんぶん)：báo\n新婚(しんこん)：tân hôn\n",
+  "Kanji" : "新",
+  "Kun" : "あたら-しい",
+  "Mean" : "Tân",
+  "On" : "しん"
+}, {
+  "Example" : "場所(ばしょ)：địa điểm\n市場(しじょう)：thị trường. Cách đọc khác : いちば : chợ.\n会場(かいじょう)：hội trường\n",
+  "Kanji" : "場",
+  "Kun" : "ば",
+  "Mean" : "Trường",
+  "On" : "じょう"
+}, {
+  "Example" : "店員(てんいん)：nhân viên cửa hàng\n会社員(かいしゃいん)：nhân viên công ty\n",
+  "Kanji" : "員",
+  "Kun" : "",
+  "Mean" : "Viên",
+  "On" : "いん"
+}, {
+  "Example" : "公立(こうりつ)：công lập\n立つ(たつ)：đứng\n国立(こくりつ)：quốc lập, quốc khánh\n",
+  "Kanji" : "立",
+  "Kun" : "た-つ\r\nた-てる",
+  "Mean" : "Lập",
+  "On" : "りつ"
+}, {
+  "Example" : "開く(ひらく)：mở ra, khai lập\n開発(かいはつ)：sáng lập (doanh nghiệp)\n開業(かいぎょう)：khởi nghiệp\n",
+  "Kanji" : "開",
+  "Kun" : "ひら-く\r\nひら-き\r\nひら-ける\r\nあ-く",
+  "Mean" : "Khai",
+  "On" : "かい"
+}, {
+  "Example" : "手(て)：tay\n手術- phẫu thuật\n手足- tay chân\n",
+  "Kanji" : "手",
+  "Kun" : "て",
+  "Mean" : "Thủ",
+  "On" : "しゅ"
+}, {
+  "Example" : "努力(どりょく)- nỗ lực\n協力(きょうりょく)- hợp lực\n力(ちから)- lực\n",
+  "Kanji" : "力",
+  "Kun" : "ちから",
+  "Mean" : "Lực",
+  "On" : "りょく"
+}, {
+  "Example" : "問題(もんだい)- vấn đề\n問う(とう)- hỏi\n質問(しつもん)- câu hỏi\n",
+  "Kanji" : "問",
+  "Kun" : "と-う\r\nと-い",
+  "Mean" : "Vấn",
+  "On" : "もん"
+}, {
+  "Example" : "代表(だいひょう)- đại biểu\n時代(じだい)- thời đại\n",
+  "Kanji" : "代",
+  "Kun" : "",
+  "Mean" : "Đại",
+  "On" : "だい"
+}, {
+  "Example" : "明かり(あかり)- ánh sáng\n明るい(あかるい)- sáng sủa\n梅雨明け- kết thức mùa mưa\n明らか- rõ ràng\n",
+  "Kanji" : "明",
+  "Kun" : "あ-かり/あか-るい\r\nあか-るむ/あか-らむ\r\nあき-らか/あ-ける\r\nあ-くる",
+  "Mean" : "Minh",
+  "On" : "めい"
+}, {
+  "Example" : "動く(うごく)- cử động、chuyển động\n自動(じどう)- tự động\n感動(かんどう)- cảm động\n",
+  "Kanji" : "動",
+  "Kun" : "うご-く",
+  "Mean" : "Động",
+  "On" : "どう"
+}, {
+  "Example" : "Cách nhớ :\n東京(とうきょう)- Thủ đô Tokyo\n京都(きょうと)- thành phố Kyoto\n",
+  "Kanji" : "京",
+  "Kun" : "",
+  "Mean" : "Kinh",
+  "On" : "きょう"
+}, {
+  "Example" : "Cách nhớ :\n目(め)- mắt\n目的(もくてき)- mục đích\n",
+  "Kanji" : "目",
+  "Kun" : "め",
+  "Mean" : "Mục",
+  "On" : "もく"
+}, {
+  "Example" : "交通(こうつう)- giao thông\n通路(つうろ)- đường xe chạy\n通り(とおり)- con đường\n",
+  "Kanji" : "通",
+  "Kun" : "とお-る/とお-り\r\nとお-す",
+  "Mean" : "Thông",
+  "On" : "つう"
+}, {
+  "Example" : "言う(いう)- nói\n言語(げんご)- ngôn ngữ\n",
+  "Kanji" : "言",
+  "Kun" : "い-う",
+  "Mean" : "Ngôn",
+  "On" : "げん"
+}, {
+  "Example" : "理由(りゆう)- lý do\n地理(ちり)- địa lý\n物理(ぶつり)- vật lý\n",
+  "Kanji" : "理",
+  "Kun" : "",
+  "Mean" : "Lý",
+  "On" : "り"
+}, {
+  "Example" : "体(からだ)：cơ thể\n体温(たいおん)：thân nhiệt\n体育（たいいく）：thể dục\n",
+  "Kanji" : "体",
+  "Kun" : "からだ",
+  "Mean" : "Thể",
+  "On" : "たい"
+}, {
+  "Example" : "田（た）：ruộng\n田畑- ruộng\n新田- ruộng mới\n",
+  "Kanji" : "田",
+  "Kun" : "た",
+  "Mean" : "Điền",
+  "On" : "でん"
+}, {
+  "Example" : "主(ぬし)- ông chủ\n主に(おもに)- chủ yếu là\n主体(しゅたい)- chủ thể\n主婦(しゅふ)-vợ\n",
+  "Kanji" : "主",
+  "Kun" : "ぬし\r\nおも-な",
+  "Mean" : "Chủ",
+  "On" : "しゅ"
+}, {
+  "Example" : "意見(いけん)- ý kiến\n意味(いみ)- ý nghĩa\n意外(いがい)- ngoài dự kiến\n",
+  "Kanji" : "意",
+  "Kun" : "",
+  "Mean" : "Ý",
+  "On" : "い"
+}, {
+  "Example" : "不満(ふまん)- chưa thỏa mãn\n不便(ふべん)- bất tiện\n",
+  "Kanji" : "不",
+  "Kun" : "",
+  "Mean" : "Bất",
+  "On" : "フ"
+}, {
+  "Example" : "作る(つくる)- làm, chế tác\n作業(さぎょう)- công việc\n作家(さっか)- tác giả\n",
+  "Kanji" : "作",
+  "Kun" : "つく-る\r\nつく-り",
+  "Mean" : "Tác",
+  "On" : "さく"
+}, {
+  "Example" : "作用(さよう)- tác dụng\n使用(しよう)- sử dụng\n用いる(もちいる)- có được\n",
+  "Kanji" : "用",
+  "Kun" : "もち-いる",
+  "Mean" : "Dụng",
+  "On" : "よう"
+}, {
+  "Example" : "程度(ていど)- mức độ\n態度(たいど)- thái độ\n度(たび)- dịp\n",
+  "Kanji" : "度",
+  "Kun" : "たび",
+  "Mean" : "Độ",
+  "On" : "どう"
+}, {
+  "Example" : "強引（ごういん）：cưỡng bức, ép buộc\n強い（つよい）：mạnh mẽ\n強調（きょうちょう）：nhấn mạnh\n",
+  "Kanji" : "強",
+  "Kun" : "つよ-い\r\nつよ-まる/つよ-める\r\nし-いる",
+  "Mean" : "Cường",
+  "On" : "きょう"
+}, {
+  "Example" : "公園（こうえん）：công viên\n公共（こうきょう）：công cộng\n公立（こうりつ）：công lập\n",
+  "Kanji" : "公",
+  "Kun" : "おおやけ",
+  "Mean" : "Công",
+  "On" : "こう"
+}, {
+  "Example" : "維持（いじ）：duy trì\n持つ（もつ）：nắm, cầm\n",
+  "Kanji" : "持",
+  "Kun" : "も-つ\r\nも-ち",
+  "Mean" : "Trì",
+  "On" : "じ"
+}, {
+  "Example" : "野球（やきゅう）：bóng chày\n野原（のはら）：đồng cỏ\n野菜（やさい）：rau củ\n",
+  "Kanji" : "野",
+  "Kun" : "の",
+  "Mean" : "Dã",
+  "On" : "や"
+}, {
+  "Example" : "以上（いじょう）：trở lên\n以下（いか）：trở xuống\n以前（いぜん）：trước ~\n",
+  "Kanji" : "以",
+  "Kun" : "",
+  "Mean" : "Dĩ",
+  "On" : "い"
+}, {
+  "Example" : "思う（おもう）：suy nghĩ\r\n思考（しこう）：suy nghĩcẩn thận\n",
+  "Kanji" : "思",
+  "Kun" : "おも-う\r\nおもえら-く\r\nおぼ-す",
+  "Mean" : "Tư",
+  "On" : "し"
+}, {
+  "Example" : "Cách nhớ : \n家（いえ）：nhà\n作家（さっか）：tác giả\n家族（かぞく）：gia đình\n",
+  "Kanji" : "家",
+  "Kun" : "いえ\r\nうち",
+  "Mean" : "Gia",
+  "On" : "か"
+}, {
+  "Example" : "世界（せかい）：thế giới\n世紀（せいき）：thế kỷ\n世の中（よのなか）：xã hội\n",
+  "Kanji" : "世",
+  "Kun" : "よ",
+  "Mean" : "Thế",
+  "On" : "せい"
+}, {
+  "Example" : "多忙（たぼう）：bận rộn\n多い（おおい）：nhiều\n",
+  "Kanji" : "多",
+  "Kun" : "おお-い",
+  "Mean" : "Đa",
+  "On" : "た"
+}, {
+  "Example" : "正しい（ただしい）：chính xác\n正月（しょうがつ）：Tết\n正門（せいもん）：cửa chính\n",
+  "Kanji" : "正",
+  "Kun" : "ただ-しい\r\nただ-す\r\nまさ",
+  "Mean" : "Chính",
+  "On" : "せい"
+}, {
+  "Example" : "安い（やすい）：rẻ\n安全（あんぜん）：an toàn\n不安（ふあん）：bất an\n",
+  "Kanji" : "安",
+  "Kun" : "やす-い\r\nやす-まる\r\nやす",
+  "Mean" : "An",
+  "On" : "あん"
+}, {
+  "Example" : "病院（びょういん）：bệnh viện\n大学院（だいがくいん）：cao học\n",
+  "Kanji" : "院",
+  "Kun" : "",
+  "Mean" : "Viện",
+  "On" : "いん"
+}, {
+  "Example" : "心（こころ）：tâm, tấm lòng\n関心（かんしん）：quan tâm\n心臓（しんぞう）：trái tim (sinh học)\n",
+  "Kanji" : "心",
+  "Kun" : "こころ.みる ため.す",
+  "Mean" : "Tâm",
+  "On" : "しん"
+}, {
+  "Example" : "世界（せかい）：thế giới\n",
+  "Kanji" : "界",
+  "Kun" : "",
+  "Mean" : "Giới",
+  "On" : "かい"
+}, {
+  "Example" : "教える（おしえる）：dạy dỗ\n教わる（おそわる）：được dạy\n教師（きょうし）：giáo viên\n",
+  "Kanji" : "教",
+  "Kun" : "おし-える\r\nおそ-わる",
+  "Mean" : "Giáo",
+  "On" : "きょう"
+}, {
+  "Example" : "文法（ぶんぽう）：ngữ pháp\n論文（ろんぶん）：luận văn\n文章（ぶんしょう）：đoạn văn\n",
+  "Kanji" : "文",
+  "Kun" : "ふみ",
+  "Mean" : "Văn",
+  "On" : "ぶん"
+}, {
+  "Example" : "元々（もともと）：vốn dĩ\r\n元日（がんじつ）：Ngày mùng 1 Tết元気（げんき）：khỏe khoắn\n",
+  "Kanji" : "元",
+  "Kun" : "もと",
+  "Mean" : "Nguyên",
+  "On" : "げん"
+}, {
+  "Example" : "重い（おもい）：nặng\n重要（じゅうよう）：trọng yếu\n重点（じゅうてん）：trọng điểm\n",
+  "Kanji" : "重",
+  "Kun" : "おも-い/おも-り\r\nおも-なう/かさ-ねる\r\nかさ-なる",
+  "Mean" : "Trọng",
+  "On" : "じゅう"
+}, {
+  "Example" : "近く（ちかく）：gần đây\n近所（きんじょ）：hàng xóm\n最近（さいきん）：dạo gần đây\n",
+  "Kanji" : "近",
+  "Kun" : "ちか-い\r\nちか-く",
+  "Mean" : "Cận",
+  "On" : "きん"
+}, {
+  "Example" : "考える（かんがえる）：suy nghĩ\r\n思考（しこう）：suy nghĩ cẩn thận\n参考書（さんこうしょ）：sách tham khảo\n",
+  "Kanji" : "考",
+  "Kun" : "かんが-える",
+  "Mean" : "Khảo",
+  "On" : "こう"
+}, {
+  "Example" : "画面（がめん）：màn hình\n映画（えいが）：phim\n画家（がか）：hoạ sỹ\n",
+  "Kanji" : "画",
+  "Kun" : "えが-く\r\nかく-する\r\nかぎ-る",
+  "Mean" : "hoạch",
+  "On" : "が"
+}, {
+  "Example" : "海（うみ）：biển\n海外（かいがい）：hải ngoại\n",
+  "Kanji" : "海",
+  "Kun" : "うみ",
+  "Mean" : "Hải",
+  "On" : "かい"
+}, {
+  "Example" : "売る（うる）：bán\n売買（ばいばい）：mua bán\n売り場（うりば）：quầy bán\n",
+  "Kanji" : "売",
+  "Kun" : "う-る",
+  "Mean" : "Mại",
+  "On" : "ばい"
+}, {
+  "Example" : "知る（しる）：biết\n知識（ちしき）：tri thức\n",
+  "Kanji" : "知",
+  "Kun" : "し-る",
+  "Mean" : "Tri",
+  "On" : "ち"
+}, {
+  "Example" : "道（みち）：con đường\n茶道（ちゃどう）：trà đạo\n柔道（じゅどう）：nhu đạo\n",
+  "Kanji" : "道",
+  "Kun" : "みち",
+  "Mean" : "Đạo",
+  "On" : "どう"
+}, {
+  "Example" : "集まる（あつまる）：tụ tập\n集中（しゅうちゅう）：tập trung\n",
+  "Kanji" : "集",
+  "Kun" : "あつ-まる\r\nあつ-める",
+  "Mean" : "Tập",
+  "On" : "しゅう"
+}, {
+  "Example" : "区別（くべつ）：chia theo khu\n別れる（わかれる）：chia tay, phân cách\n特別（とくべつ）：đặc biệt\n",
+  "Kanji" : "別",
+  "Kun" : "わか-れる",
+  "Mean" : "Biệt",
+  "On" : "べつ"
+}, {
+  "Example" : "動物（どうぶつ）：động vật\n物事（ものごと）：mọi việc\n荷物（にもつ）：hành lý\n",
+  "Kanji" : "物",
+  "Kun" : "もの",
+  "Mean" : "Vật",
+  "On" : "ぶつ"
+}, {
+  "Example" : "使う（つかう）：sử dụng\n使用（しよう）：sử dụng\n",
+  "Kanji" : "使",
+  "Kun" : "つか-う\r\nつか-い",
+  "Mean" : "sứ",
+  "On" : "し"
+}, {
+  "Example" : "品物（しなもの）：hàng hóa\n食料品（しょくりょうひん）：thực phẩm\n作品（さくひん）：tác phẩm\n",
+  "Kanji" : "品",
+  "Kun" : "しな",
+  "Mean" : "Phẩm",
+  "On" : "ひん"
+}, {
+  "Example" : "時計（とけい）：đồng hồ\n計る（はかる）：đo đạc\n計算（けいさん）：kế toán\n",
+  "Kanji" : "計",
+  "Kun" : "はか-る",
+  "Mean" : "kê",
+  "On" : "けい"
+}, {
+  "Example" : "死ぬ（しぬ）：chết\n死体（したい）：tử thi\n",
+  "Kanji" : "死",
+  "Kun" : "し-ぬ",
+  "Mean" : "Tử",
+  "On" : "し"
+}, {
+  "Example" : "特徴（とくちょう）：đặc trưng\n特に（とくに）：đặc biệt là\n特別（とくべつ）：đặc biệt\n",
+  "Kanji" : "特",
+  "Kun" : "",
+  "Mean" : "Đặc",
+  "On" : "とく"
+}, {
+  "Example" : "私鉄（してつ）：hãng đường sắt tư nhân\n私（わたし）：tôi私立（しりつ）：tư lập\n",
+  "Kanji" : "私",
+  "Kun" : "わたくし\r\nわたし",
+  "Mean" : "Tư",
+  "On" : "し"
+}, {
+  "Example" : "始める（はじめる）：bắt đầu\n始めに（はじめに）：đầu tiên thì\n始末（しまつ）：đầu cuối\n",
+  "Kanji" : "始",
+  "Kun" : "はじ-める\r\nはじ-まる",
+  "Mean" : "Thủy",
+  "On" : "し"
+}, {
+  "Example" : "朝（あさ）：buổi sáng\n朝食（ちょうしょく）：cơm sáng\n",
+  "Kanji" : "朝",
+  "Kun" : "あさ",
+  "Mean" : "Triều",
+  "On" : "ちょう"
+}, {
+  "Example" : "運転（うんてん）：vận chuyển\n運が付いている（うんがついている）：may mắn\n運ぶ（はこぶ）：vận chuyển\n",
+  "Kanji" : "運",
+  "Kun" : "はこ-ぶ",
+  "Mean" : "Vận",
+  "On" : "うん"
+}, {
+  "Example" : "終わる（おわる）：kết thức\n終了（しゅうりょう）：hoàn thành\n",
+  "Kanji" : "終",
+  "Kun" : "お-わる\r\nお-える\r\nつい",
+  "Mean" : "Chung",
+  "On" : "しゅう"
+}, {
+  "Example" : "台所（だいどころ）：nhà bếp\n台形（だいけい）：hình thang\n台湾（たいわん）：đài loan\n",
+  "Kanji" : "台",
+  "Kun" : "うてな",
+  "Mean" : "Đài",
+  "On" : "だい"
+}, {
+  "Example" : "広い（ひろい）：rộng rãi\n広場（ひろば）：quảng trường\n広大（こうだい）：quảng đại\n",
+  "Kanji" : "広",
+  "Kun" : "ひろ-い\r\nひろ-まる/ひろ-める\r\nひろ-がる/ひろ-げる",
+  "Mean" : "Quảng",
+  "On" : "こう"
+}, {
+  "Example" : "住む（すむ）：sinh sống\n住所（じゅしょ）：địa chỉ\n",
+  "Kanji" : "住",
+  "Kun" : "す-む\r\nす-まう",
+  "Mean" : "trụ",
+  "On" : "じゅう"
+}, {
+  "Example" : "写真（しゃしん）：ảnh\n真っ黒（まっくろ）：đen tuyền\n真っ赤（まっか）：đỏ quạch\n",
+  "Kanji" : "真",
+  "Kun" : "ま～",
+  "Mean" : "Chân",
+  "On" : "しん"
+}, {
+  "Example" : "有名（ゆうめい）：nổi tiếng\n有する（ゆうする）：có, tồn tại\n有利（ゆうり）：có lợi\n",
+  "Kanji" : "有",
+  "Kun" : "あ（有る）",
+  "Mean" : "Hữu",
+  "On" : "ゆう"
+}, {
+  "Example" : "Cách nhớ :\n口（くち）：miệng\n窓口（まどぐち）：quầy bán vé\n入り口（いりぐち）：cửa vào\n",
+  "Kanji" : "口",
+  "Kun" : "くち",
+  "Mean" : "Khẩu",
+  "On" : "こう"
+}, {
+  "Example" : "減少（げんしょう）：giảm thiểu\n少ない（すくない）：ít\n少々（しょうしょう）：một chút\n",
+  "Kanji" : "少",
+  "Kun" : "すく-ない\r\nすこ-し",
+  "Mean" : "Thiểu",
+  "On" : "しょう"
+}, {
+  "Example" : "町（まち）：thành phố\n",
+  "Kanji" : "町",
+  "Kun" : "まち",
+  "Mean" : ":",
+  "On" : "ちょう"
+}, {
+  "Example" : "原料（げんりょう）：nguyên liệu\n材料（ざいりょう）：vật liệu\n料理（りょうり）：món ăn\n",
+  "Kanji" : "料",
+  "Kun" : "",
+  "Mean" : "Liệu",
+  "On" : "りょう"
+}, {
+  "Example" : "Cách nhớ :\n工業（こうぎょう）：công nghiệp\n工場（こうじょう）：công trường, nhà máy\n",
+  "Kanji" : "工",
+  "Kun" : "",
+  "Mean" : "Công",
+  "On" : "こう"
+}, {
+  "Example" : "建てる（たてる）：xây dựng\n建物（たてもの）：nhà cao tầng\n建築（けんちく）：kiến trúc\n",
+  "Kanji" : "建",
+  "Kun" : "た-てる\r\nた-て",
+  "Mean" : "Kiến",
+  "On" : "けん"
+}, {
+  "Example" : "空（そら）：bầu trời\n空手道（からてどう）：Karatedo\n空港（くうこう）：sân bay\n",
+  "Kanji" : "空",
+  "Kun" : "そら\r\nあ-く\r\nあ-き\r\nあ-ける\r\nから\r\nす-く\r\nす-かす",
+  "Mean" : "Không",
+  "On" : "くう"
+}, {
+  "Example" : "救急車（きゅうきゅうしゃ）：xe cấp cứu\n急ぐ（いそぐ）：vội\n特急電車（とっきゅうでんしゃ）：tàu tốc hành\n",
+  "Kanji" : "急",
+  "Kun" : "いそ-ぐ\r\nいそ-ぎ",
+  "Mean" : "Cấp",
+  "On" : "きゅう"
+}, {
+  "Example" : "止まる（とまる）：dừng lại, giữ lại\n禁止（きんし）：cấm chỉ\n止す（よす）：bỏ học, đình chỉ\n止血剤（しけつざい）：thuốc cầm máu\n",
+  "Kanji" : "止",
+  "Kun" : "と-まる\r\nと-める\r\nとど-め\r\nとど-まる\r\nや-める\r\nや-む\r\nよ-す",
+  "Mean" : "Chỉ",
+  "On" : "し"
+}, {
+  "Example" : "輸送費（ゆそうひ）：phí vận chuyển\n送る（おくる）：gửi\n送り主（おくりぬし）：người gửi\n",
+  "Kanji" : "送",
+  "Kun" : "おく-る",
+  "Mean" : "Tống",
+  "On" : "そう"
+}, {
+  "Example" : "切る（きる）：cắt\n大切（たいせつ）：quan trọng\n売り切れ（うりきれ）：bán hết\n親切（しんせつ）：tốt bụng\n",
+  "Kanji" : "切",
+  "Kun" : "き-る\r\nき-り\r\nき-れる\r\nきれ",
+  "Mean" : "Thiết",
+  "On" : "せつ"
+}, {
+  "Example" : "運転（うんてん）：vận hành\n自転車（じてんしゃ）：xe đạp\n転がる（ころがる）：ngã, đổ nhào\n",
+  "Kanji" : "転",
+  "Kun" : "ころ-がる\r\nころ-げる\r\nころ-がす\r\nころ-ぶ\r\nまろ-ぶ\r\nうたた\r\nうつ-る",
+  "Mean" : "Chuyển",
+  "On" : "てん"
+}, {
+  "Example" : "研究（けんきゅう）：nghiên cứu\n",
+  "Kanji" : "研",
+  "Kun" : "",
+  "Mean" : "Nghiên",
+  "On" : "けん"
+}, {
+  "Example" : "手足（てあし）：chân tay\n足りる（たりる）：đủ\n足入れ（あしいれ）：kết hôn không chính thức\n",
+  "Kanji" : "足",
+  "Kun" : "あし\r\nた-りる\r\nた-る\r\nた-す",
+  "Mean" : "Túc",
+  "On" : "そく"
+}, {
+  "Example" : "研究（けんきゅう）：nghiên cứu\n考究（こうきゅう）：khảo cứu\n",
+  "Kanji" : "究",
+  "Kun" : "",
+  "Mean" : "Cứu",
+  "On" : "きゅう"
+}, {
+  "Example" : "音楽（おんがく）：âm nhạc\n楽しい（たのしい）：vui vẻ\n楽観的（らっかんてき）：lạc quan\n",
+  "Kanji" : "楽",
+  "Kun" : "たの-しい\r\nたの-しむ",
+  "Mean" : "Lạc",
+  "On" : "がく"
+}, {
+  "Example" : "起きる（起きる）：thức dậy\n",
+  "Kanji" : "起",
+  "Kun" : "お-きる\r\nお-こる\r\nお-こす\r\nた-つ",
+  "Mean" : "Khởi",
+  "On" : "き"
+}, {
+  "Example" : "着物（きもの）：Kimono, quần áo truyền thống của Nhật\n着信メール（ちゃくしん）：thư gửi đến着る（きる）：mặc\n",
+  "Kanji" : "着",
+  "Kun" : "き-る\r\nき-せる\r\nつ-く\r\nつ-ける",
+  "Mean" : "trữ",
+  "On" : "ちゃく"
+}, {
+  "Example" : "店（みせ）：cửa hàng\n店員（てんいん）：nhân viên cửa hàng\n百貨店（ひゃっかてん）：cửa hàng bách hóa\n",
+  "Kanji" : "店",
+  "Kun" : "みせ\r\nたな",
+  "Mean" : "Điếm",
+  "On" : "てん"
+}, {
+  "Example" : "病気（びょうき）：bệnh tật\n病院（びょういん）：bệnh viện\n病人（びょうにん）：bệnh nhân\n",
+  "Kanji" : "病",
+  "Kun" : "や-む\r\nやまい",
+  "Mean" : "Bệnh",
+  "On" : "びょう"
+}, {
+  "Example" : "質問（しつもん）：câu hỏi\n質（しつ）：chất lượng\n悪質（あくしつ）：chất lượng kém\n",
+  "Kanji" : "質",
+  "Kun" : "たち\r\nただ-す",
+  "Mean" : "Chất",
+  "On" : "しつ"
+}, {
+  "Example" : "待つ（まつ）：đợi\n招待（しょうたい）：tiếp đãi\n期待（きたい）：kì vọng\n",
+  "Kanji" : "待",
+  "Kun" : "ま-つ",
+  "Mean" : "Đãi",
+  "On" : "たい"
+}, {
+  "Example" : "試みる（こころみる）：thử\n試合（しあい）：trận chiến\n試験（しけん）：kiểm tra\n",
+  "Kanji" : "試",
+  "Kun" : "こころ-みる\r\nため-す",
+  "Mean" : "Thí",
+  "On" : "し"
+}, {
+  "Example" : "家族（かぞく）：gia đình\n民族（みんぞく）：dân tộc\n水族館（すいぞくかん）：ống dẫn nước\n",
+  "Kanji" : "族",
+  "Kun" : "",
+  "Mean" : "Tộc",
+  "On" : "ぞく"
+}, {
+  "Example" : "銀行（ぎんこう）：ngân hàng\n",
+  "Kanji" : "銀",
+  "Kun" : "",
+  "Mean" : "Ngân",
+  "On" : "ぎん"
+}, {
+  "Example" : "早い（はやい）：nhanh\n早起き（はやおき）：dậy sớm\n",
+  "Kanji" : "早",
+  "Kun" : "はや-い\r\nはや-く\r\nはや-まる\r\nはや-める",
+  "Mean" : "Tảo",
+  "On" : "そう"
+}, {
+  "Example" : "映画（えいが）：phim rạp\n映る（うつる）：chiếu chụp\n映画館（えいがかん）：rạp chiếu phim\n",
+  "Kanji" : "映",
+  "Kun" : "うつ-る\r\nうつ-す\r\nは-える",
+  "Mean" : "Ánh",
+  "On" : "えい"
+}, {
+  "Example" : "両親（りょうしん）：bố mẹ\n親切（しんせつ）：tốt bụng\n母親（ははおや）：mẹ\n",
+  "Kanji" : "親",
+  "Kun" : "おや\r\nした-しい",
+  "Mean" : "Thân",
+  "On" : "しん"
+}, {
+  "Example" : "試験（しけん）：kiểm tra\n経験（けいけん）：kinh nghiệm\n",
+  "Kanji" : "験",
+  "Kun" : "あかし\r\nしるし\r\nため-す\r\nためし",
+  "Mean" : "Nghiệm",
+  "On" : "けん"
+}, {
+  "Example" : "英語（えいご）：tiếng Anh\n英国（えいこく）：nước Anh\n英雄（えいゆう）：anh hùng\n",
+  "Kanji" : "英",
+  "Kun" : "",
+  "Mean" : "Anh",
+  "On" : "えい"
+}, {
+  "Example" : "医者（いしゃ）：bác sỹ\n医師（いし）：y sỹ\n歯医者（はいしゃ）：nha sỹ\n",
+  "Kanji" : "医",
+  "Kun" : "",
+  "Mean" : "Y",
+  "On" : "い"
+}, {
+  "Example" : "仕事（しごと）：công việc\n仕上げる（しあげる）：hoàn thành\n仕方が無い（しかたがない）：không còn cách nào khác\n",
+  "Kanji" : "仕",
+  "Kun" : "つか-える",
+  "Mean" : "Sĩ",
+  "On" : "し"
+}, {
+  "Example" : "去年（きょねん）：năm ngoái\n昨日（さくねん）：hôm qua\n過去（かこ）：quá khứ\n",
+  "Kanji" : "去",
+  "Kun" : "さ-る",
+  "Mean" : "Khứ",
+  "On" : "きょ"
+}, {
+  "Example" : "調味料（ちょうみりょう）：gia vị\n意味（いみ）：ý nghĩa\n興味（きょうみ）：sở thích\n",
+  "Kanji" : "味",
+  "Kun" : "あじ\r\nあじ-わう",
+  "Mean" : "Vị",
+  "On" : "み"
+}, {
+  "Example" : "写す（うつす）：chụp, copy\n写真（しゃしん）：ảnh\n",
+  "Kanji" : "写",
+  "Kun" : "うつ-す\r\nうつ-る",
+  "Mean" : "Tả",
+  "On" : "しゃ"
+}, {
+  "Example" : "漢字（かんじ）：chữ Hán\n字典（じてん）：từ điển\n習字（しゅうじ）：luyện chữ\n",
+  "Kanji" : "字",
+  "Kun" : "あざ\r\nあざな\r\n～な",
+  "Mean" : "Tự",
+  "On" : "じ"
+}, {
+  "Example" : "答え（こたえ）：câu trả lời\n返答（へんとう）：trả lời\n",
+  "Kanji" : "答",
+  "Kun" : "こた-える",
+  "Mean" : "Đáp",
+  "On" : "とう"
+}, {
+  "Example" : "今夜（こんや）：tối nay\n夜会（やかい）：dạ hội\n",
+  "Kanji" : "夜",
+  "Kun" : "よ\r\nよる",
+  "Mean" : "Dạ",
+  "On" : "や"
+}, {
+  "Example" : "音楽（おんがく）：âm nhạc\n音（おと）：âm\n騒音（そうおん）：ô nhiễm tiếng ồn\n",
+  "Kanji" : "音",
+  "Kun" : "おと",
+  "Mean" : "Âm",
+  "On" : "おん"
+}, {
+  "Example" : "注意（ちゅうい）：chú ý\n注射（ちゅうしゃ）：tiêm\n",
+  "Kanji" : "注",
+  "Kun" : "そそ-ぐ\r\nさ-す\r\nつ-ぐ",
+  "Mean" : "Chú",
+  "On" : "ちゅう"
+}, {
+  "Example" : "帰国（きこく）：về nước\nお帰りなさい（おかえりなさい）：anh (bác, bố…) đã về (rồi ạ)\n帰宅（きたく）：về nhà\n",
+  "Kanji" : "帰",
+  "Kun" : "かえ-る\r\nかえ-す\r\nおく-る\r\nとつ-ぐ",
+  "Mean" : "Quy",
+  "On" : "き"
+}, {
+  "Example" : "中古（ちゅうこ）：đồ qua sử dụng rồi\n古い（ふるい）：cũ\r\n古代（こだい）：cổ đại\n",
+  "Kanji" : "古",
+  "Kun" : "ふる-い",
+  "Mean" : "Cổ",
+  "On" : "こ"
+}, {
+  "Example" : "歌手（かしゅ）：ca sỹ\n和歌山県（わかやまけん）-tỉnh Wakayama\n",
+  "Kanji" : "歌",
+  "Kun" : "うた\r\nうた-う",
+  "Mean" : "Ca",
+  "On" : "か"
+}, {
+  "Example" : "買い物（かいもの）：đi mua sắm\n売買（ばいばい）：mua bán\n",
+  "Kanji" : "買",
+  "Kun" : "か-う",
+  "Mean" : "Mãi",
+  "On" : "ばい"
+}, {
+  "Example" : "悪意（あくい）：ác ý\n悪い（わるい）：xấu\n",
+  "Kanji" : "悪",
+  "Kun" : "わる-い\r\nあ-し\r\nにく-い",
+  "Mean" : "Ác",
+  "On" : "あく"
+}, {
+  "Example" : "地図（ちず）：bản đồ\n図書館（としょかん）：thư viện\n",
+  "Kanji" : "図",
+  "Kun" : "え",
+  "Mean" : "Đồ",
+  "On" : "ず"
+}, {
+  "Example" : "一週（いっしゅう）：một tuần\n来週（らいしゅう）：tuần tới\n今週（こんしゅう）：tuần trước\n",
+  "Kanji" : "週",
+  "Kun" : "",
+  "Mean" : "Chu",
+  "On" : "しゅう"
+}, {
+  "Example" : "教室（きょうしつ）：giảng đường\n事務室（じむしつ）：văn phòng\n待合室（まちあいしつ）：phòng chờ\n",
+  "Kanji" : "室",
+  "Kun" : "むろ",
+  "Mean" : "Thất",
+  "On" : "しつ"
+}, {
+  "Example" : "散歩（さんぽ）：tản bộ\n横断歩道（おうだんほどう）：vạch kẻ sang đường\n進歩（しんぽ）：tiến bộ\n",
+  "Kanji" : "歩",
+  "Kun" : "ある-く",
+  "Mean" : "Bộ",
+  "On" : "ほ"
+}, {
+  "Example" : "風景（ふうけい）：phong cảnh\n台風（たいふう）：bão\n洋風（ようふう）：kiểu tây\n風鈴（ふうりん）：chuông gió\n",
+  "Kanji" : "風",
+  "Kun" : "かぜ",
+  "Mean" : "Phong",
+  "On" : "ふう"
+}, {
+  "Example" : "紙（かみ）：giấy\n和紙（わし）：giấy Nhật\n",
+  "Kanji" : "紙",
+  "Kun" : "かみ",
+  "Mean" : "Chỉ",
+  "On" : "し"
+}, {
+  "Example" : "黒い（くろい）：đen\n真っ黒（まっくろ）：đen tuyền\n黒板（こくばん）：bảng đen\n",
+  "Kanji" : "黒",
+  "Kun" : "くろ\r\nくろ-ずむ\r\nくろ-い",
+  "Mean" : "Hắc",
+  "On" : "こく"
+}, {
+  "Example" : "生け花（いけばな）：nghệ thuật cắm hoa\n花火（はなび）：pháp hoa\n火事（かじ）：hỏa hoạn\n",
+  "Kanji" : "花",
+  "Kun" : "はな",
+  "Mean" : "Hoa",
+  "On" : "か"
+}, {
+  "Example" : "春（はる）：mùa xuân\n春分（しゅんぶん）：xuân phân\n",
+  "Kanji" : "春",
+  "Kun" : "はる",
+  "Mean" : "Xuân",
+  "On" : "しゅん"
+}, {
+  "Example" : "赤道（せきどう）：xích đạo\n赤ちゃん（あかちゃん）：trẻ nhỏ\n赤い（あかい）：đỏ\n",
+  "Kanji" : "赤",
+  "Kun" : "あか\r\nあか-い\r\nあか-らむ",
+  "Mean" : "Xích",
+  "On" : "せき"
+}, {
+  "Example" : "青空（あおぞら）：trời trong xanh\n青年（せいねん）：thanh niên\n",
+  "Kanji" : "青",
+  "Kun" : "あお\r\nあお-い",
+  "Mean" : "Thanh",
+  "On" : "せい"
+}, {
+  "Example" : "図書館（としょかん）：thư viện\n大使館（たいしかん）：đại sứ quán\n",
+  "Kanji" : "館",
+  "Kun" : "やかた",
+  "Mean" : "Quán",
+  "On" : "かん"
+}, {
+  "Example" : "八百屋（やおや）：cửa hàng rau\n屋上（おくじょう）：sân thượng\n酒屋（さかや）：hàng rượu\n",
+  "Kanji" : "屋",
+  "Kun" : "や",
+  "Mean" : "Ốc",
+  "On" : "おく"
+}, {
+  "Example" : "特色（とくしょく）：đặc sắc\n茶色（ちゃいろ）：màu nâu\n景色（けしき）：cảnh sắc\n",
+  "Kanji" : "色",
+  "Kun" : "いろ",
+  "Mean" : "Sắc",
+  "On" : "しょく"
+}, {
+  "Example" : "走る（はしる）：chạy\n走り書き（はしりがき）：chữ viết láu\n",
+  "Kanji" : "走",
+  "Kun" : "はし-る",
+  "Mean" : "Tẩu",
+  "On" : "そう"
+}, {
+  "Example" : "秋田県（あきたけん）：tỉnh Akita\n秋分の日（しゅうぶんのひ）：ngày Thu phân\n",
+  "Kanji" : "秋",
+  "Kun" : "あき",
+  "Mean" : "Thu",
+  "On" : "しゅう"
+}, {
+  "Example" : "夏休み（なつやすみ）：nghỉ hè\n夏祭り（なつまつり）：lễ hội hè\n夏服（なつふく）：quần áo hè\n",
+  "Kanji" : "夏",
+  "Kun" : "なつ",
+  "Mean" : "Hạ",
+  "On" : "か"
+}, {
+  "Example" : "習う（ならう）：học\n習慣（しゅうかん）：tập quán\n復習（ふくしゅう）：ôn tập\n",
+  "Kanji" : "習",
+  "Kun" : "なら-う\r\nなら-い",
+  "Mean" : "Tập",
+  "On" : "しゅう"
+}, {
+  "Example" : "駅長（えきちょう）：trưởng ga\n駅名（えきめい）：tên ga\n",
+  "Kanji" : "駅",
+  "Kun" : "",
+  "Mean" : "Dịch",
+  "On" : "えき"
+}, {
+  "Example" : "西洋（せいよう）：Phương Tây\n東洋（とうよう）：Phương Đông\n洋服（ようふく）：âu phục\n",
+  "Kanji" : "洋",
+  "Kun" : "",
+  "Mean" : "Dương",
+  "On" : "よう"
+}, {
+  "Example" : "旅行（りょこう）：du lịch\n旅（たび）：du lịch\n",
+  "Kanji" : "旅",
+  "Kun" : "たび",
+  "Mean" : "Lữ",
+  "On" : "りょ"
+}, {
+  "Example" : "洋服（ようふく）：âu phục\n和服（わふく）：quàn áo truyền thống Nhật\n衣服（いふく）：y phục\n",
+  "Kanji" : "服",
+  "Kun" : "",
+  "Mean" : "Phục",
+  "On" : "ふく"
+}, {
+  "Example" : "夕方（ゆうがた）：chiều tối\n夕日（ゆうひ）：mặt trời lúc hoàng hôn\n七夕（たなばな）：ngày lễ Tanabata　（７/７）\n",
+  "Kanji" : "夕",
+  "Kun" : "ゆう",
+  "Mean" : "Tịch",
+  "On" : "せき"
+}, {
+  "Example" : "借りる（かりる）：vay mượn\n借金（しゃっきん）：tiền vay\n",
+  "Kanji" : "借",
+  "Kun" : "か-りる",
+  "Mean" : "Tá",
+  "On" : "しゃく"
+}, {
+  "Example" : "Cách nhớ :\n日曜日（にちようび）：chủ nhật\n火曜日（かようび）：thứ 3\n",
+  "Kanji" : "曜",
+  "Kun" : "",
+  "Mean" : "Diệu",
+  "On" : "よう"
+}, {
+  "Example" : "飲む（のむ）：uống\n飲食（いんしょく）：ẩm thực\n",
+  "Kanji" : "飲",
+  "Kun" : "の-む",
+  "Mean" : ":",
+  "On" : "いん"
+}, {
+  "Example" : "鶏肉（とりにく）：thịt gà\n牛肉（ぎゅうにく）：thịt bò\n",
+  "Kanji" : "肉",
+  "Kun" : "",
+  "Mean" : "Nhục",
+  "On" : "にく"
+}, {
+  "Example" : "貸家（かしいえ）：nhà cho thuê\n貸す（かす）：cho vay\n",
+  "Kanji" : "貸",
+  "Kun" : "か-す",
+  "Mean" : "Thải",
+  "On" : "たい"
+}, {
+  "Example" : "食堂（しょくどう）：nhà ăn\n講堂（こうどう）：giảng đường\n",
+  "Kanji" : "堂",
+  "Kun" : "",
+  "Mean" : "Đường",
+  "On" : "どう"
+}, {
+  "Example" : "小鳥（ことり）：chim nhỏ\n白鳥（はくちょう）：thiên nga\n",
+  "Kanji" : "鳥",
+  "Kun" : "とり",
+  "Mean" : "Điểu",
+  "On" : "ちょう"
+}, {
+  "Example" : "夕飯（ゆうはん）：cơm chiều\nご飯（ごはん）：cơm\n",
+  "Kanji" : "飯",
+  "Kun" : "",
+  "Mean" : "Phạn",
+  "On" : "はん"
+}, {
+  "Example" : "勉強（べんきょう）：học hành\n",
+  "Kanji" : "勉",
+  "Kun" : "",
+  "Mean" : "Miễn",
+  "On" : "べん"
+}, {
+  "Example" : "冬休み（ふゆやすみ）：nghỉ đông\n春夏秋冬（しゅんかしゅうとう）：xuân hạ thu đông\n",
+  "Kanji" : "冬",
+  "Kun" : "ふゆ",
+  "Mean" : "Đông",
+  "On" : "とう"
+}, {
+  "Example" : "昼ご飯（ひるごはん）：cơm trưa\n昼休み（ひるやすみ）：nghỉ trưa\n昼食（ちゅうしょく）：ăn trưa\n",
+  "Kanji" : "昼",
+  "Kun" : "ひる",
+  "Mean" : "Trú",
+  "On" : "ちゅう"
+}, {
+  "Example" : "茶色（ちゃいろ）：màu nâu\n紅茶（こうちゃ）：hồng trà\n茶碗（ちゃわん）：chén trà\n",
+  "Kanji" : "茶",
+  "Kun" : "",
+  "Mean" : "Trà",
+  "On" : "ちゃ"
+}, {
+  "Example" : "弟さん（おとうとさん）：em trai\n兄弟（きょうだい）：anh em\n",
+  "Kanji" : "弟",
+  "Kun" : "おとうと",
+  "Mean" : "Đệ",
+  "On" : "だい"
+}, {
+  "Example" : "牛肉（ぎゅうにく）：thịt bò\n牛乳（ぎゅうにく）：sữa bò\n",
+  "Kanji" : "牛",
+  "Kun" : "うし",
+  "Mean" : ":",
+  "On" : "ぎゅう"
+}, {
+  "Example" : "魚（さかな）：cá\n金魚（きんぎょ）：cá vàng\n",
+  "Kanji" : "魚",
+  "Kun" : "さかな",
+  "Mean" : "Ngư",
+  "On" : "ぎょ"
+}, {
+  "Example" : "お兄さん（おにいさん）：anh trai\n兄弟（きょうだい）：anh em\n",
+  "Kanji" : "兄",
+  "Kun" : "あに",
+  "Mean" : "Huynh",
+  "On" : "けい"
+}, {
+  "Example" : "犬（いぬ）：chó\n番犬（ばんけん）：chó giữ nhà\n",
+  "Kanji" : "犬",
+  "Kun" : "いぬ",
+  "Mean" : "Tuất",
+  "On" : "けん"
+}, {
+  "Example" : "妹さん（いもうとさん）：em gái\n姉妹- chị em\n",
+  "Kanji" : "妹",
+  "Kun" : "いもうと",
+  "Mean" : "Muội",
+  "On" : "まい"
+}, {
+  "Example" : "お姉さん（おねえさん）：chị gá\ni姉妹（しまい）：chị em\n",
+  "Kanji" : "姉",
+  "Kun" : "あね",
+  "Mean" : "Tỷ",
+  "On" : "し"
+}, {
+  "Example" : "漢字（かんじ）：chữ Hán\n漢方薬（かんぽうやく）：thuốc gốc Trung Quốc\n",
+  "Kanji" : "漢",
+  "Kun" : "",
+  "Mean" : "Hán",
+  "On" : "かん"
+} ]
